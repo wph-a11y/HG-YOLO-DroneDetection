@@ -109,12 +109,20 @@ For researchers interested in low-altitude security UAV detection, the following
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{hg-yolo2026,
-  title={Low-Altitude Security UAV Detection: Fusing Generative Augmentation with Hypergraph Computing},
-  author={Li, Chuanyang et al.},
-  booktitle={Proceedings of the International Conference on Artificial Intelligence and Control (CAIC)},
-  year={2026}
+@inproceedings{10.1145/3807246.3807363,
+author = {Wang, Puhui and Li, Chuanyang and Zhang, Jiaqi and Pang, Yuanlong and Zhang, Xiangrui and Wan, Xinyi and Hu, Changhua},
+title = {Low-Altitude Security UAV Detection: Fusing Generative Augmentation with Hypergraph Computing},
+year = {2026},
+isbn = {9798400723537},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3807246.3807363},
+doi = {10.1145/3807246.3807363},
+booktitle = {Proceedings of the 2026 International Conference on Artificial Intelligence and Control},
+pages = {744–751},
+numpages = {8},
+series = {CAIC '26}
 }
+
 ```
 
 ## License
